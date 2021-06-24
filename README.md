@@ -1,3 +1,5 @@
-# TFF
+# TFF (Tru Fast Food)
 
-Hi, we are here!
+The link to the website is below:
+
+* https://truphenakwamboka.github.io/TFF/
